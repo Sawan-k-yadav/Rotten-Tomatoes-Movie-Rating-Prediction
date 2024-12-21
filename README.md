@@ -45,6 +45,8 @@ After training and validating the models, the following R² scores were achieved
 + Linear Regression: R² Score: 0.50
 + Random Forest Regression: R² Score: 0.48
 
+(** More imporement need to do )
+
 The Ridge Regression model performed the best, indicating that it effectively captures the relationship between the features and audience ratings.
 
 ### Usage
